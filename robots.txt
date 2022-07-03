@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://sgp-angka-mati.github.io/sitemap.xml
